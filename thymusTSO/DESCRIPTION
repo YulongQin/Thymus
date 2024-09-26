@@ -8,13 +8,9 @@ Description: Identifying cortical and medullary areas in thymus spatial transcri
 License: GPL (>= 3)
 Encoding: UTF-8
 Depends:
-    MASS,
 	tidyr,
 	dplyr,
 	Seurat,
-	splines,
 	ggplot2,
-	DiagrammeR,
-	xgboost
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
